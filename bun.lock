@@ -42,7 +42,7 @@
         "@tanstack/react-virtual": "^3.14.13",
         "@tauri-apps/api": "3.0.0-alpha.2",
         "@tauri-apps/plugin-opener": "3.0.0-alpha.2",
-        "@tauri-apps/plugin-process": "3.0.0-alpha.2",
+        "@tauri-apps/plugin-process": "3.0.0-alpha.3",
         "@tauri-apps/plugin-updater": "3.0.0-alpha.2",
         "i18next": "^26.4.2",
         "i18next-browser-languagedetector": "^8.2.1",
@@ -700,7 +700,7 @@
 
     "@tauri-apps/plugin-opener": ["@tauri-apps/plugin-opener@3.0.0-alpha.2", "", { "dependencies": { "@tauri-apps/api": "^3.0.0-alpha.1" } }, "sha512-T3Y7Y/m+XybZqB2cI6SZD8St47GBONPTbFp+hSYFLHy5Lh0eNh0sv9TRyi7MElzUtUx0NWZltAOHuHzeo2UfWA=="],
 
-    "@tauri-apps/plugin-process": ["@tauri-apps/plugin-process@3.0.0-alpha.2", "", { "dependencies": { "@tauri-apps/api": "^3.0.0-alpha.1" } }, "sha512-ASkIJva1x92pbWQ/GfoP6VcEJJqjN+qYspZmldFl1gvZ/sm+zo5BO+p71s/tl5X7moqP66ti44tQezsjx+DEPw=="],
+    "@tauri-apps/plugin-process": ["@tauri-apps/plugin-process@3.0.0-alpha.3", "", { "dependencies": { "@tauri-apps/api": "^3.0.0-alpha.2" } }, "sha512-JVdxEpC8Pc3nGY+3Ai989sYCnDe2LmePxh1dgAMOwsKPfHbf7PA41qrs4GnxCO9iyLJV1GYLxogqAfmaQ8YjdQ=="],
 
     "@tauri-apps/plugin-updater": ["@tauri-apps/plugin-updater@3.0.0-alpha.2", "", { "dependencies": { "@tauri-apps/api": "^3.0.0-alpha.1" } }, "sha512-WHRIi50gV9M2JDx9VZLxlpcuA3gvd7eABaqfNQEQTdKUSuIWyS/gQcbH5LpiuSWSkCTMMInUUBmost2LdZnnkA=="],
 
